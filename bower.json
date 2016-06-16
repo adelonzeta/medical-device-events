@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-sassy",
+  "description": "Bootstrap, jQuery, Sass, Haml",
+  "main": "index.js",
+  "authors": [
+    "adelonzeta <adelonzeta@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
